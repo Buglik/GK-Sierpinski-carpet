@@ -1,2 +1,5 @@
 # GK-Sierpinski-carpet
-Rectangle Sierpiński carpet.
+
+Computer Graphics course at Wrocław University of Science and Technology.
+
+Rectangle Sierpiński carpet using OpenGL.
